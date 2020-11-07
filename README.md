@@ -27,6 +27,7 @@ It is developed to demonstrate:
 * Material UI
 * DevExtreme REACTIVE
 * <a href="https://coronavirus.data.gov.uk/cases"> coronavirus.data.gov.uk</a> API is consumed to develop this application.
+* Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">flaticon</a>
 
 
 ## Getting Started
