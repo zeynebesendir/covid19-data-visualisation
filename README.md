@@ -45,3 +45,6 @@ To get a local copy up and running please install these:
     DevExpress:
     npm i --save @devexpress/dx-react-core @devexpress/dx-react-chart
     npm i --save @devexpress/dx-react-chart-material-ui
+    
+    npm i --save @devexpress/dx-react-grid
+    npm i --save @devexpress/dx-react-grid-material-ui
