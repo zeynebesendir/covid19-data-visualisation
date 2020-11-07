@@ -25,6 +25,10 @@ yarn add @material-ui/icons
 DevExpress:
 npm i --save @devexpress/dx-react-core @devexpress/dx-react-chart
 npm i --save @devexpress/dx-react-chart-material-ui
+
+npm i --save @devexpress/dx-react-core @devexpress/dx-react-grid
+npm i --save @devexpress/dx-react-grid-material-ui
+
 */
 
 export default App;

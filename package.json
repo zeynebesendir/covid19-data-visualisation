@@ -2,7 +2,7 @@
   "name": "covid19-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zeynebesendir.github.io/covid19-data-visualisation",
+  "homepage": "https://zeynebesendir.github.io/covid19-data-visualisation",
   "dependencies": {
     "@devexpress/dx-react-chart": "^2.7.2",
     "@devexpress/dx-react-chart-material-ui": "^2.7.2",
@@ -10,6 +10,7 @@
     "@devexpress/dx-react-grid": "^2.7.3",
     "@devexpress/dx-react-grid-material-ui": "^2.7.3",
     "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -22,11 +23,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
