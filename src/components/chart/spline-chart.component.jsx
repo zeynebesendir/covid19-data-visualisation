@@ -107,8 +107,7 @@ export default function SplineChart({ country }) {
                         valueField="newCasesByPublishDate"
                         argumentField="date"
                         seriesComponent={Line}
-                    >
-                    </LineSeries>
+                    />
 
                     <Legend position="bottom" rootComponent={Root} itemComponent={Item} labelComponent={Label} />
                     <Title
